@@ -1,0 +1,1 @@
+Simple showcase of communication between Node.js and C application
